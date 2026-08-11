@@ -1,0 +1,10 @@
+Job Title: Junior AI Research Associate
+Skills Required:
+Python, Machine Learning, NLP, SQL, Data Analysis, LLMs,
+Generative AI, Git, Problem Solving.
+Education:
+Bachelor's degree in Computer Science, Electronics,
+Information Technology, Data Science or related field.
+Experience:
+Freshers or candidates with 0-2 years of experience.
+Responsibilities:- Develop AI-based applications and agents.- Work with Python and NLP techniques.- Analyse data and build intelligent solutions.- Work with LLM APIs.- Write clean and maintainable code
